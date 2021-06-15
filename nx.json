@@ -25,6 +25,9 @@
     "web-lib-customer-e2e": {
       "tags": [],
       "implicitDependencies": ["web-lib-customer"]
+    },
+    "sdk": {
+      "tags": []
     }
   }
 }

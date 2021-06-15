@@ -1,0 +1,7 @@
+{
+  "name": "@e-square/sdk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "sideEffects": false,
+  "private": true
+}
